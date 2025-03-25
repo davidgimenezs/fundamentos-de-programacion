@@ -18,12 +18,13 @@ Cada archivo está diseñado para resolver un problema específico que forma par
 
 El repositorio se organiza de la siguiente manera:
 
-/Fundamentos_de_Programacion
-    ├── ejercicio1.py
-    ├── ejercicio2.py
-    ├── ejercicio3.py
-    ├── ...
-    └── README.md
+Fundamentos_de_Programacion/
+│
+├── ejercicio1.py
+├── ejercicio2.py
+├── ejercicio3.py
+├── ...
+└── README.md
 
 - Cada archivo `.py` corresponde a una solución a un ejercicio específico de la cátedra.
 - El archivo `README.md` contiene información relevante sobre el repositorio.
