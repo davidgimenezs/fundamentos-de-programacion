@@ -19,7 +19,7 @@ Cada archivo está diseñado para resolver un problema específico que forma par
 El repositorio se organiza de la siguiente manera:
 
 ```
-Fundamentos_de_Programacion/
+Python/
 ├── ejercicio1.py
 ├── ejercicio2.py
 ├── ejercicio3.py
