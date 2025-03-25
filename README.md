@@ -1,22 +1,22 @@
 # Fundamentos de Programación - Universidad Nacional de Asunción
 
-Este repositorio contiene los ejercicios resueltos para la cátedra de **Fundamentos de Programación** en la **Facultad de Ingeniería** de la **Universidad Nacional de Asunción**.
+Este repositorio tiene los ejercicios resueltos por mí para la cátedra de **Fundamentos de Programación** en la **Facultad de Ingeniería** de la **Universidad Nacional de Asunción**.
 
 ## Descripción
 
-Los archivos contienen diversas implementaciones de programas en Python que cubren conceptos fundamentales de programación, tales como:
+Acá vas a encontrar varias soluciones de programas en Python que cubren conceptos básicos de programación, como:
 
 - Operadores y estructuras de control.
 - Funciones y manejo de entradas y salidas.
-- Algoritmos básicos de procesamiento de datos.
-- Validación de entradas y generación de estructuras como listas y diccionarios.
+- Algoritmos sencillos para procesar datos.
+- Validación de entradas y creación de estructuras como listas y diccionarios.
 - Uso de ciclos y funciones recursivas.
 
-Cada archivo está diseñado para resolver un problema específico que forma parte de la asignatura, permitiendo a los estudiantes practicar y afianzar sus conocimientos en programación.
+Cada archivo resuelve un ejercicio que forma parte de la materia, y está pensado para que puedas practicar y reforzar tus conocimientos en programación.
 
 ## Estructura del repositorio
 
-El repositorio se organiza de la siguiente manera:
+El repositorio está organizado así:
 
 ```
 Python/
@@ -27,42 +27,38 @@ Python/
 └── README.md
 ```
 
-- Cada archivo `.py` corresponde a una solución a un ejercicio específico de la cátedra.
-- El archivo `README.md` contiene información relevante sobre el repositorio.
+- Cada archivo `.py` tiene la solución de un ejercicio en particular.
+- El archivo `README.md` tiene información sobre el repositorio.
 
 ## Instrucciones de uso
 
-1. Clona el repositorio en tu máquina local utilizando Git:
+1. Cloná el repositorio en tu máquina local con Git:
 
    ```bash
    git clone https://github.com/tu_usuario/Fundamentos_de_Programacion.git
-   ```
 
-2. Navega a la carpeta del repositorio:
+2. Navegá a la carpeta del repositorio:
 
    ```bash
    cd Fundamentos_de_Programacion
    ```
 
-3. Ejecuta los archivos `.py` utilizando Python 3:
+3. Ejecutá los archivos .py con Python 3:
 
    ```bash
    python ejercicio1.py
    ```
+   
+   Asegurate de tener Python 3 instalado en tu sistema.
 
-   Asegúrate de tener Python 3 instalado en tu sistema.
+Contribuciones
+Este repositorio tiene los ejercicios resueltos por mí para la cátedra de Fundamentos de Programación de la Facultad de Ingeniería. Si querés aportar algo, ya sea con más ejemplos o mejorando alguna solución, ¡estás más que bienvenido! Abrí un "pull request" y lo reviso sin problema.
 
-## Contribuciones
+Licencia
+Este proyecto está bajo la licencia MIT - podés ver más detalles en el archivo LICENSE.
 
-Este repositorio es de uso para la cátedra de Fundamentos de Programación de la Facultad de Ingeniería. Las contribuciones son bienvenidas, especialmente si estás interesado en agregar más ejemplos o mejorar las soluciones existentes. Si deseas colaborar, abre un "pull request" y revisaremos tu propuesta.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
-
-## Contacto
-
-Si tienes preguntas o sugerencias, puedes ponerte en contacto con los responsables del curso o con el estudiante que subió el proyecto. Puedes encontrarnos en el correo institucional de la facultad o en nuestras redes sociales.
+Contacto
+Si tenés dudas o sugerencias, podés ponerte en contacto conmigo. Me podés escribir al correo institucional de la Facultad o en mis redes sociales.
 
 **Facultad de Ingeniería - Universidad Nacional de Asunción**  
-**Cátedra: Fundamentos de Programación**
+**Fundamentos de Programación**
