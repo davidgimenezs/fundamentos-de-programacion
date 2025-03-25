@@ -35,12 +35,12 @@ Python/
 1. Cloná el repositorio en tu máquina local con Git:
 
    ```bash
-   git clone https://github.com/tu_usuario/Fundamentos_de_Programacion.git
+   git clone https://github.com/tu_usuario/Python.git
 
 2. Navegá a la carpeta del repositorio:
 
    ```bash
-   cd Fundamentos_de_Programacion
+   cd Python
    ```
 
 3. Ejecutá los archivos .py con Python 3:
