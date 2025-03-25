@@ -57,9 +57,5 @@ Este repositorio tiene los ejercicios resueltos por mí para la cátedra de Fund
 ## Contacto
 Si tenés dudas o sugerencias, podés ponerte en contacto conmigo. Me podés escribir al correo institucional de la Facultad o en mis redes sociales.
 
-**Facultad de Ingeniería - Universidad Nacional de Asunción**  
-**Fundamentos de Programación**
-
-
 ## Licencia
 Este proyecto está bajo la licencia MIT - podés ver más detalles en el archivo LICENSE.
