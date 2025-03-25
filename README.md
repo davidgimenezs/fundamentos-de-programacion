@@ -1,6 +1,3 @@
-Aquí tienes un ejemplo de un archivo `README.md` para tu repositorio en GitHub:
-
-```markdown
 # Fundamentos de Programación - Universidad Nacional de Asunción
 
 Este repositorio contiene los ejercicios resueltos para la cátedra de **Fundamentos de Programación** en la **Facultad de Ingeniería** de la **Universidad Nacional de Asunción**.
@@ -21,14 +18,12 @@ Cada archivo está diseñado para resolver un problema específico que forma par
 
 El repositorio se organiza de la siguiente manera:
 
-```
 /Fundamentos_de_Programacion
     ├── ejercicio1.py
     ├── ejercicio2.py
     ├── ejercicio3.py
     ├── ...
     └── README.md
-```
 
 - Cada archivo `.py` corresponde a una solución a un ejercicio específico de la cátedra.
 - El archivo `README.md` contiene información relevante sobre el repositorio.
@@ -67,10 +62,5 @@ Este proyecto está bajo la licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 Si tienes preguntas o sugerencias, puedes ponerte en contacto con los responsables del curso o con el estudiante que subió el proyecto. Puedes encontrarnos en el correo institucional de la facultad o en nuestras redes sociales.
 
----
-
 **Facultad de Ingeniería - Universidad Nacional de Asunción**  
 **Cátedra: Fundamentos de Programación**
-```
-
-Este `README.md` proporciona una descripción clara del repositorio, su propósito, y cómo los usuarios pueden utilizar y contribuir al proyecto. Puedes personalizarlo aún más con detalles específicos si lo necesitas.
