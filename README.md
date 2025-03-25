@@ -35,12 +35,12 @@ Python/
 1. Cloná el repositorio en tu máquina local con Git:
 
    ```bash
-   git clone https://github.com/tu_usuario/Python.git
+   git clone https://github.com/tu_usuario/python.git
 
 2. Navegá a la carpeta del repositorio:
 
    ```bash
-   cd Python
+   cd python
    ```
 
 3. Ejecutá los archivos .py con Python 3:
