@@ -54,11 +54,12 @@ Python/
 ## Contribuciones
 Este repositorio tiene los ejercicios resueltos por mí para la cátedra de Fundamentos de Programación de la Facultad de Ingeniería. Si querés aportar algo, ya sea con más ejemplos o mejorando alguna solución, ¡estás más que bienvenido! Abrí un "pull request" y lo reviso sin problema.
 
-## Licencia
-Este proyecto está bajo la licencia MIT - podés ver más detalles en el archivo LICENSE.
-
 ## Contacto
 Si tenés dudas o sugerencias, podés ponerte en contacto conmigo. Me podés escribir al correo institucional de la Facultad o en mis redes sociales.
 
 **Facultad de Ingeniería - Universidad Nacional de Asunción**  
 **Fundamentos de Programación**
+
+
+## Licencia
+Este proyecto está bajo la licencia MIT - podés ver más detalles en el archivo LICENSE.
