@@ -114,7 +114,6 @@ Top 5 pendientes locales:
 
 
 import numpy as np
-import random
 
 def validar_Numero(numero):
     try:
