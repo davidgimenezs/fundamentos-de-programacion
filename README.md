@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a name="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Fundamentos de Programación" width="150"></a>
-  <br>Fundamentos de Programación
+  <a name="logo"><img src="src/img/fp-banner.png" 
+  alt="Fundamentos de Programación" width="750"></a>
 </h1>
 
 <h4 align="center">¿Este repo te fue útil? Dale una ⭐
